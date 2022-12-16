@@ -34,7 +34,7 @@ Creating a sequential model using tensorflow.keras.models importing Sequential M
 
 
 ## positive input 
-![db_objects](Text-Toxicity-Machine-learning-Model-with-Gradio-application-interface/images/toxic text example.png)
+![db_objects](images/positive_example.png)
 
 ## negative/toxic input 
 ![db_objects](Text-Toxicity-Machine-learning-Model-with-Gradio-application-interface/images/toxic text example.png)
