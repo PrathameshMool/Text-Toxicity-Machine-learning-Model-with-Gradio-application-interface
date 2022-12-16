@@ -33,6 +33,8 @@ Creating a sequential model using tensorflow.keras.models importing Sequential M
 ### Making a gradio for displaying the functionality of the machine learning model
 
 
-positive input ![db_objects] (https://github.com/PrathameshMool/Text-Toxicity-Machine-learning-Model-with-Gradio-application-interface/blob/main/images/positive%20exaample.png)
+## positive input 
+![db_objects] (images/positive exaample.png)
 
-negative/toxic input ![db_objects] (https://github.com/PrathameshMool/Text-Toxicity-Machine-learning-Model-with-Gradio-application-interface/blob/main/images/toxic%20text%20example.png)
+## negative/toxic input 
+![db_objects] (images/toxic text example.png)
